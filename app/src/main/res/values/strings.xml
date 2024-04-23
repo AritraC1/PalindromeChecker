@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Palindrome Checker</string>
+    <string name="description">A palindrome is a word, phrase, or sequence that reads the same backwards as forwards, e.g. madam.</string>
+    <string name="heading">Palindrome Checker</string>
+    <string name="hint">Enter a word</string>
+    <string name="check">Check Palindrome</string>
+</resources>

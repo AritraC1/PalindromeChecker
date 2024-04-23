@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bgColor">#264653</color>
+    <color name="headingColor">#FFFFFFFF</color>
+    <color name="searchColor">#FFFFFFFF</color>
+    <color name="textColor">#BCBCBC</color>
+    <color name="btnColor">#2A9D8F</color>
+</resources>

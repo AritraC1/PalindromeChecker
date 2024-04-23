@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description">A palindrome is a word, phrase, or sequence that reads the same backwards as forwards, e.g. madam or nurses run.</string>
+</resources>
